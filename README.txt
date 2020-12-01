@@ -1,3 +1,8 @@
-Smart(Pc)Phone
-Fakultet Informatike u Puli
-
+- Smart(Pc)Phone
+- Kristijan Kekić, Rikardo Rižnar, Rino Malbašić
+- Fakultet informatike u Puli fipu.unipu.hr
+- Kolegij: Programsko inženjerstvo ntankovic.unipu.hr/pi
+- Mentori: doc. dr. sc. Nikola Tanković ntankovic.unipu.hr i Toni Starčić, univ. bacc. inf.
+- Kratki opis funkcionalnosti
+- Prototip: https://www.figma.com/file/522E8KyVTVsv4HY1sqro16/PI-projekt
+- Zaduženja (planirana) po članu tima - ovaj dio commita svaki član tima za sebe.
