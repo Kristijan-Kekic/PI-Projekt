@@ -7,4 +7,5 @@
   također korisnici mogu vidjeti komponente koje imaju najveću vrijednost uloženo/dobiveno, osim toga aplikacija nudi
   korisnicima odabir mobitela prema svojim preferencama (npr. da li je korisniku bitnija kamera, baterija, perfomanse mobitela)
 - Prototip: https://www.figma.com/file/522E8KyVTVsv4HY1sqro16/PI-projekt
-- Zaduženja (planirana) po članu tima - HTML i CSS - Rikardo Rižnar
+- HTML i CSS - Rikardo Rižnar
+- HTML i JavaScript - Kristijan Kekić
