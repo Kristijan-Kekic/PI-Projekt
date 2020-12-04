@@ -10,4 +10,4 @@
 - Zaduženja (planirana) po članu tima:
 - HTML i Javascript - Rikardo Rižnar
 - HTML i Javascript - Kristijan Kekić
-- CSS - Rino Malbašić
+- CSS primarno (HTML i JS sporedno) - Rino Malbašić
